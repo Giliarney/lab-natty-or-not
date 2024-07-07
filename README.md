@@ -36,10 +36,10 @@ Utilizei o seguinte prompt no PictoryAI "Atue como um expert em desenvolvimento 
 ## 🚀 Resultados
 Roadmap para Desenvolvedores Fullstack Iniciantes
 
-##1. Introdução
+## 1. Introdução
 Este ebook tem como objetivo fornecer um guia detalhado para desenvolvedores iniciantes que desejam seguir uma carreira como desenvolvedores fullstack. Um desenvolvedor fullstack possui habilidades tanto no frontend quanto no backend, permitindo que ele desenvolva uma aplicação web completa, desde a interface do usuário até a lógica do servidor e banco de dados.
 
-##2. Fundamentos da Web
+## 2. Fundamentos da Web
 HTML (HyperText Markup Language)
 HTML é a linguagem básica de marcação usada para criar a estrutura de páginas web. Comece aprendendo:
 
@@ -63,7 +63,7 @@ Eventos
 Async/Await e Promises
 APIs e Fetch
 
-##3. Desenvolvimento Frontend
+## 3. Desenvolvimento Frontend
 Frameworks e Bibliotecas
 Escolher e aprender um framework moderno pode aumentar sua produtividade:
 
@@ -83,7 +83,7 @@ CSS Grid e Flexbox
 Media Queries
 Padrões de acessibilidade (WCAG)
 
-##4. Desenvolvimento Backend
+## 4. Desenvolvimento Backend
 Linguagens de Programação
 Escolha uma ou mais linguagens de programação populares para o desenvolvimento backend:
 
@@ -103,7 +103,8 @@ Compreender os diferentes tipos de bancos de dados e como usá-los:
 
 SQL (MySQL, PostgreSQL)
 NoSQL (MongoDB, Redis)
-5. DevOps e Deploy
+
+## 5. DevOps e Deploy
 Controle de Versão
 Controle de versão é essencial para gerenciar seu código:
 
@@ -120,7 +121,7 @@ Aprenda a hospedar suas aplicações:
 AWS, Azure, Google Cloud
 Heroku, Vercel, Netlify
 
-##6. Boas Práticas e Ferramentas Adicionais
+## 6. Boas Práticas e Ferramentas Adicionais
 Testes
 A importância de testes para garantir a qualidade do código:
 
@@ -140,13 +141,13 @@ Caching
 Load balancing
 Otimização de consulta de banco de dados
 
-##7. Recursos e Comunidades
+## 7. Recursos e Comunidades
 Estar sempre atualizado com as melhores práticas e novidades do mercado:
 
 Blogs e sites de notícias (Medium, Dev.to, Smashing Magazine)
 Cursos online (Coursera, Udemy, Pluralsight)
 Comunidades e fóruns (Stack Overflow, Reddit, Discord)
 
-##8. Conclusão
+## 8. Conclusão
 Tornar-se um desenvolvedor fullstack é um processo contínuo de aprendizagem e prática. Siga este roadmap, continue se desafiando e contribuindo para projetos open-source. Com o tempo, você adquirirá as habilidades necessárias para construir e manter aplicações web robustas e escaláveis. tenho este ebook e preciso colocar imagens nele consegue estruturar para mim com imagens?
 
