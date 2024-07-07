@@ -35,35 +35,11 @@ Utilizei o seguinte prompt no PictoryAI "Atue como um expert em desenvolvimento 
 
 ## 🚀 Resultados
 Roadmap para Desenvolvedores Fullstack Iniciantes
-Índice
 
-Introdução
-Fundamentos da Web
-HTML
-CSS
-JavaScript
-Desenvolvimento Frontend
-Frameworks e Bibliotecas
-Ferramentas de Construção e Otimização
-Design Responsivo e Acessibilidade
-Desenvolvimento Backend
-Linguagens de Programação
-Frameworks e Bibliotecas
-Banco de Dados
-DevOps e Deploy
-Controle de Versão
-Containers e Orquestração
-Serviços de Cloud e Deploy
-Boas Práticas e Ferramentas Adicionais
-Testes
-Segurança
-Performance e Escalabilidade
-Recursos e Comunidades
-Conclusão
-1. Introdução
+##1. Introdução
 Este ebook tem como objetivo fornecer um guia detalhado para desenvolvedores iniciantes que desejam seguir uma carreira como desenvolvedores fullstack. Um desenvolvedor fullstack possui habilidades tanto no frontend quanto no backend, permitindo que ele desenvolva uma aplicação web completa, desde a interface do usuário até a lógica do servidor e banco de dados.
 
-2. Fundamentos da Web
+##2. Fundamentos da Web
 HTML (HyperText Markup Language)
 HTML é a linguagem básica de marcação usada para criar a estrutura de páginas web. Comece aprendendo:
 
@@ -86,7 +62,8 @@ Manipulação do DOM
 Eventos
 Async/Await e Promises
 APIs e Fetch
-3. Desenvolvimento Frontend
+
+##3. Desenvolvimento Frontend
 Frameworks e Bibliotecas
 Escolher e aprender um framework moderno pode aumentar sua produtividade:
 
@@ -105,7 +82,8 @@ Desenvolver interfaces que funcionem bem em todos os dispositivos e sejam acess�
 CSS Grid e Flexbox
 Media Queries
 Padrões de acessibilidade (WCAG)
-4. Desenvolvimento Backend
+
+##4. Desenvolvimento Backend
 Linguagens de Programação
 Escolha uma ou mais linguagens de programação populares para o desenvolvimento backend:
 
@@ -141,7 +119,8 @@ Aprenda a hospedar suas aplicações:
 
 AWS, Azure, Google Cloud
 Heroku, Vercel, Netlify
-6. Boas Práticas e Ferramentas Adicionais
+
+##6. Boas Práticas e Ferramentas Adicionais
 Testes
 A importância de testes para garantir a qualidade do código:
 
@@ -160,12 +139,14 @@ Técnicas para otimizar a performance e garantir que sua aplicação escale bem:
 Caching
 Load balancing
 Otimização de consulta de banco de dados
-7. Recursos e Comunidades
+
+##7. Recursos e Comunidades
 Estar sempre atualizado com as melhores práticas e novidades do mercado:
 
 Blogs e sites de notícias (Medium, Dev.to, Smashing Magazine)
 Cursos online (Coursera, Udemy, Pluralsight)
 Comunidades e fóruns (Stack Overflow, Reddit, Discord)
-8. Conclusão
+
+##8. Conclusão
 Tornar-se um desenvolvedor fullstack é um processo contínuo de aprendizagem e prática. Siga este roadmap, continue se desafiando e contribuindo para projetos open-source. Com o tempo, você adquirirá as habilidades necessárias para construir e manter aplicações web robustas e escaláveis. tenho este ebook e preciso colocar imagens nele consegue estruturar para mim com imagens?
 
