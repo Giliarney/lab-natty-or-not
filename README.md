@@ -34,8 +34,8 @@ Utilizei o seguinte prompt no ChatGPT "Atue como um expert em desenvolvimento de
 Utilizei o seguinte prompt no PictoryAI "Atue como um expert em desenvolvimento de sotware e edição de video e crie um video não muito extenso com no max 3min para a fácil compreensão do texto e-bbok que eu forneci "
 
 ## 🚀 Resultados
-Roadmap para Desenvolvedores Fullstack Iniciantes
-
+## E-book: Roadmap para Desenvolvedores Fullstack Iniciantes
+```markdown
 ## 1. Introdução
 Este ebook tem como objetivo fornecer um guia detalhado para desenvolvedores iniciantes que desejam seguir uma carreira como desenvolvedores fullstack. Um desenvolvedor fullstack possui habilidades tanto no frontend quanto no backend, permitindo que ele desenvolva uma aplicação web completa, desde a interface do usuário até a lógica do servidor e banco de dados.
 
@@ -149,7 +149,5 @@ Cursos online (Coursera, Udemy, Pluralsight)
 Comunidades e fóruns (Stack Overflow, Reddit, Discord)
 
 ## 8. Conclusão
-Tornar-se um desenvolvedor fullstack é um processo contínuo de aprendizagem e prática. Siga este roadmap,
-continue se desafiando e contribuindo para projetos open-source. Com o tempo,
-você adquirirá as habilidades necessárias para construir e manter aplicações web robustas e escaláveis.
+Tornar-se um desenvolvedor fullstack é um processo contínuo de aprendizagem e prática. Siga este roadmap, continue se desafiando e contribuindo para projetos open-source. Com o tempo, você adquirirá as habilidades necessárias para construir e manter aplicações web robustas e escaláveis. tenho este ebook e preciso colocar imagens nele consegue estruturar para mim com imagens?
 
